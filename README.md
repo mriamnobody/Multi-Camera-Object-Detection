@@ -66,7 +66,7 @@ This project sets up concurrent connections to multiple RTSP camera feeds, runs 
 ## Installation & Setup
 
 ### Python Environment
-It’s recommended to use **Python 3.8+** for this project. To avoid dependency conflicts, create a new Python virtual environment (conda, venv, etc.):
+It’s recommended to use **Python 3.10** for this project. To avoid dependency conflicts, create a new Python virtual environment (conda, venv, etc.):
 
 ```bash
 # Using Python's built-in venv
