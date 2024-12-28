@@ -157,11 +157,6 @@ python youtvirtualenvironmentname/Scripts/activate
 python main.py
 ```
 
-4. You should see logs in the console and also be able to tail the app.log file for more detailed logs:
-
-```bash
-tail -f app.log
-```
 ### Using GPU (Optional)
 By default, YOLO runs on CPU. If you want to enable GPU support (e.g., CUDA):
 
