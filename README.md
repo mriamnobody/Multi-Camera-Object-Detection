@@ -193,3 +193,5 @@ This helps keep track of errors, camera reconnections, and inference results.
 
 ## Contributing
 Feel free to open an issue or submit a pull request if you find a bug or want to propose new features. All contributions and suggestions are welcome!
+
+![Visitor Count](https://profile-counter.glitch.me/{mriamnobody}/count.svg)
