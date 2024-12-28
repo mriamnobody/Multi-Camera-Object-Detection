@@ -1,6 +1,6 @@
 # YOLO based Multi-Camera Person Detection
 
-This repository provides a multi-camera RTSP stream ingestion pipeline for real-time person detection using the [Ultralytics YOLO](https://docs.ultralytics.com/) object detection framework. By default, inference is run on the CPU. If you have a GPU and the necessary environment set up, follow [this guide by Ultralytics](https://docs.ultralytics.com/quickstart/) to enable GPU acceleration.
+This repository provides a multi-camera RTSP stream ingestion pipeline for real-time person detection using the [Ultralytics](https://docs.ultralytics.com/) object detection models. By default, inference is run on the CPU. If you have a GPU and the necessary environment set up, follow [this guide by Ultralytics](https://docs.ultralytics.com/quickstart/) to enable GPU acceleration.
 
 ---
 
